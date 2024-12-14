@@ -36,5 +36,3 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 
 
 
-# Contact
-For any inquiries or questions, please contact us at 611noorsaeed@gmail.com
